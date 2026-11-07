@@ -5,6 +5,8 @@ Letrado Game é um jogo em Java inspirado no Termo. O objetivo é adivinhar uma 
 ## Como jogar
 
 Digite uma palavra de cinco letras e clique em **Enviar**. Use as cores para orientar o próximo palpite.
+Cada linha do tabuleiro corresponde a uma tentativa.
+
 
 - **Verde** — a letra está na posição certa.
 - **Amarelo** — a letra está na palavra, mas em outra posição.
